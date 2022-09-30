@@ -17,4 +17,10 @@ public class GitPractice {
 	
 	hiopuiovwa eouiyw
 	//This is a comment
+	
+	This is the "new stuff"
+	enjoy it
+	
+	
+	XD lolz
 }
